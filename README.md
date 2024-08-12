@@ -41,7 +41,7 @@ Key features include task and project management, deadline tracking, filtering o
 2. Compile the Project:
    Use `javac` to compile the project files:
    ```bash
-   javac -d bin src/oopProj2/*.java
+   javac -d bin src/oopProj/*.java
    ```
 
 3. Run the Application:
